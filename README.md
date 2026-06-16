@@ -117,11 +117,9 @@ Move the folder to your server's root (e.g., `htdocs`) and visit:
 ## 🎨 UI Preview
 
 | Admin Dashboard |
-| :--- | :--- |
+| :--- |
 | ![Dashboard](<img width="1366" height="553" alt="Screenshot from 2026-06-16 09-38-40" src="https://github.com/user-attachments/assets/9b47047f-b4b0-437e-9643-e0ea5b0cd28b" />
-) | 
-
-*(Note: Replace placeholders with actual screenshots for a better GitHub profile!)*
+) 
 
 ---
 
