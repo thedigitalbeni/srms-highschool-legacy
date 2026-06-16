@@ -116,9 +116,10 @@ Move the folder to your server's root (e.g., `htdocs`) and visit:
 
 ## 🎨 UI Preview
 
-| Admin Dashboard | Student Result View |
+| Admin Dashboard |
 | :--- | :--- |
-| ![Dashboard](https://via.placeholder.com/400x250?text=Admin+Dashboard+Preview) | ![Result](https://via.placeholder.com/400x250?text=Student+Result+Preview) |
+| ![Dashboard](<img width="1366" height="553" alt="Screenshot from 2026-06-16 09-38-40" src="https://github.com/user-attachments/assets/9b47047f-b4b0-437e-9643-e0ea5b0cd28b" />
+) | 
 
 *(Note: Replace placeholders with actual screenshots for a better GitHub profile!)*
 
