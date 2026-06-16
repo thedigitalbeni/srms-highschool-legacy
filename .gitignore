@@ -1,0 +1,29 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Docker
+.docker/
+docker-compose.override.yml
+Dockerfile
+docker-compose.yml
+
+# Node / Build tools
+node_modules/
+npm-debug.log
+.eslintcache
+.cache/
+
+# Sass / CSS
+.sass-cache/
+*.css.map
+*.scss.map
+
+# PHP / Environment
+.env
+.phpunit.result.cache
+
+# Project specific
+images-min/
+minified-html/
+vendor/
